@@ -1,4 +1,4 @@
-# ANDROUND - AND Rounds
+# AND Rounds
 
 You are given a cyclic array A having N numbers. In an AND round, each element of the array A is replaced by the bitwise AND of itself, the previous element, and the next element in the array. All operations take place simultaneously. Can you calculate A after K such AND rounds ?
 
@@ -26,4 +26,4 @@ Sample Output:
 1 1 1 1 1
 ```
 
-<a href="https://www.spoj.com/problems/ANDROUND/">LINK</a>
+<a href="https://www.spoj.com/problems/ANDROUND/">Problem Link</a>
